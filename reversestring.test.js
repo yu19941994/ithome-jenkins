@@ -5,6 +5,6 @@ test('reverseString function existed', () => {
 })
 
 test('String reverses to lowercase', () => {
-//   expect(reverseString('HELLO')).toEqual('olleh');
-  expect(reverseString('HELLO')).toEqual('ollaa');
+  expect(reverseString('HELLO')).toEqual('olleh');
+//   expect(reverseString('HELLO')).toEqual('ollaa');
 })
